@@ -1,0 +1,20 @@
+h1 {
+    color: #7bdf1e;
+}
+
+.headingpart{
+    background-color: #8a2be2;
+    display:flex;
+    justify-content: space-between
+}
+
+.images{
+    display:flex;
+    justify-content: space-evenly;
+    flex-wrap:  wrap 
+}
+
+.pics{
+    display:flex;
+    justify-content: flex-end
+}
